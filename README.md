@@ -27,7 +27,8 @@ The app fetches random quotes from an API, displays the quote along with the aut
 
 ## 📸 Preview
 
-_Add screenshots of your project here_
+<img width="944" height="449" alt="result" src="https://github.com/user-attachments/assets/de21286d-3346-41a6-aee9-ec69fd832be8" />
+
 
 ---
 
@@ -39,8 +40,3 @@ _Add screenshots of your project here_
 4. Clicking **Tweet** opens Twitter with the quote ready to post.
 
 ---
-
-##  Adding screenshot
-
-<img width="944" height="449" alt="result" src="https://github.com/user-attachments/assets/18ad86af-767c-4ae0-a89b-09218c216706" />
-
