@@ -1,7 +1,7 @@
 # Random Quote Generator 📜✨
 
 A simple and interactive **Random Quote Generator** built using **HTML, CSS, and JavaScript**.  
-The app fetches random quotes from an API, displays the quote along with the author's name, and allows users to share the quote directly on **Twitter**.
+The app fetches random quotes from an API, displays the quote along with the author's name, and allows users.
 
 ---
 
