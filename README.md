@@ -37,6 +37,6 @@ The app fetches random quotes from an API, displays the quote along with the aut
 1. The app fetches a random quote from an API.
 2. Quote text and author name are displayed on the screen.
 3. Clicking **New Quote** loads another random quote.
-4. Clicking **Tweet** opens Twitter with the quote ready to post.
+
 
 ---
