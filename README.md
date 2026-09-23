@@ -1,4 +1,4 @@
-# Random Quote Generator 📜✨
+<img width="448" height="434" alt="image" src="https://github.com/user-attachments/assets/4c32c9bd-f796-4891-9360-d6277869cd48" /># Random Quote Generator 📜✨
 
 A simple and interactive **Random Quote Generator** built using **HTML, CSS, and JavaScript**.  
 The app fetches random quotes from an API, displays the quote along with the author's name, and allows users to share the quote directly on **Twitter**.
@@ -37,6 +37,6 @@ The app fetches random quotes from an API, displays the quote along with the aut
 1. The app fetches a random quote from an API.
 2. Quote text and author name are displayed on the screen.
 3. Clicking **New Quote** loads another random quote.
-
+4. Clicking **Tweet** opens Twitter with the quote ready to post.
 
 ---
