@@ -2,6 +2,8 @@
 
 A simple and interactive **Random Quote Generator** built using **HTML, CSS, and JavaScript**. The app displays a random quote along with its author's name and allows users to generate a new quote with a single click. Users can also share the displayed quote directly on Twitter.
 
+---
+
 ## 🚀 Features
 
 - 💬 Generate a random quote
@@ -12,3 +14,22 @@ A simple and interactive **Random Quote Generator** built using **HTML, CSS, and
 - 📱 Responsive design
 - ⚡ Built with vanilla JavaScript
 - 🎯 Simple and easy-to-use interface
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the application
+- **CSS3** – Styling, layout, and responsive design
+- **JavaScript** – Random quote generation and application logic
+
+---
+
+## 📸 How It Works
+
+1. The app displays a random quote when the page loads.
+2. The quote and its author's name are displayed on the screen.
+3. Click the **New Quote** button to generate another random quote.
+4. Click the **Tweet** button to open Twitter with the current quote ready to share.
+
+---
