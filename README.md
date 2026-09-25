@@ -33,3 +33,9 @@ A simple and interactive **Random Quote Generator** built using **HTML, CSS, and
 4. Click the **Tweet** button to open Twitter with the current quote ready to share.
 
 ---
+
+## 📸 ScreenShot
+
+<img width="944" height="449" alt="result" src="https://github.com/user-attachments/assets/4253efca-4845-407c-a7bf-cf5d47d5eab8" />
+
+---
